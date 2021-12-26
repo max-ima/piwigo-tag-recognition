@@ -12,4 +12,6 @@ $lang['Click on tags to select them'] = "Click on tags to select them";
 $lang['Apply tags'] = "Apply tags";
 $lang['Fetching the API...'] = "Fetching the API...";
 $lang['Tags successfully added'] = "Tags successfully added";
+$lang['API Key'] = "API Key";
+$lang['API Secret'] = "API Secret";
 ?>
