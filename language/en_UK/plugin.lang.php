@@ -11,8 +11,10 @@ $lang['No more requests left this month'] = "No more requests left this month";
 $lang['Proposed tags'] = "Proposed tags";
 $lang['Click on tags to select them'] = "Click on tags to select them";
 $lang['Apply tags'] = "Apply tags";
+$lang['Cancel'] = "Cancel";
 $lang['Fetching the API...'] = "Fetching the API...";
 $lang['Tags successfully added'] = "Tags successfully added";
+$lang['Ok'] = "Ok";
 
 //admin
 $lang['This API is used'] = "This API is used";
